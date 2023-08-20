@@ -1,0 +1,31 @@
+.login,
+.senha {
+    display: flex;
+    margin: 1px;
+    color: blueviolet;
+}
+
+.cabecalho {
+    display: flex;
+    border: 24px 16px;
+ 
+
+}
+
+.corpo__titulo {
+    font-size: 1em;
+    color: blue;
+    background-color: rgb(221, 236, 9);
+    border: 1em 0;
+    display: flex;
+width: 250px;
+
+}
+
+main {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--font-principal);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 1em 0;
+}
